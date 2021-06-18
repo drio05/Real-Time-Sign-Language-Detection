@@ -18,5 +18,5 @@ OpenCV, Python, Anaconda, Jupyter Notebook, TensorFlow.
 1. Dhanraj Chowdhury
 2. Satish Ranjan Das
 
-##Weekly Report
-###Week 1:
+## Weekly Report
+### Week 1:
