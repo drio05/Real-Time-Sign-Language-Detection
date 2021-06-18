@@ -20,8 +20,8 @@ OpenCV, Python, Anaconda, Jupyter Notebook, TensorFlow.
 
 ## Weekly Report
 ### Week 1
-Configured all the required software and got past all the compatibility issues.
-Set up the image capture program to collect images for the dataset.
+-- Configured all the required software and got past all the compatibility issues.
+-- Set up the image capture program to collect images for the dataset.
 ### Week 2
-Labelled the collected images by applying bounding boxes to the hand symbols.
-Set up the pre-trained training model from TensorFlow GitHub repo, and set up some of the code required to alter the configuration of the pre-trained training model in order to match our requirements
+-- Labelled the collected images by applying bounding boxes to the hand symbols.
+-- Set up the pre-trained training model from TensorFlow GitHub repo, and set up some of the code required to alter the configuration of the pre-trained training model in order to match our requirements
